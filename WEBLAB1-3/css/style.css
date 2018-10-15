@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+.img{
+	perspective: 700;
+	margin: 20px;
+	transition: all 0.6 ease;
+	transform-style: all;
+}
+
+.img:hover{
+	transform: rotateY(180deg);
+
+}
