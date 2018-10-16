@@ -13,7 +13,7 @@ th {
 }*/
 
 body{
-	background-image: linear-gradient(to right, #b79891, #94716b);
+	background-image: linear-gradient(to right, #d85124, #405e4c);
 	background-color: #9dadc6;
 	font-size: 20px;
 	font-family: "Times New Roman", Times, serif;
@@ -40,7 +40,7 @@ body{
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: #4CAF50;
+    background-color: #3d2117;
     color: white;
 }
 

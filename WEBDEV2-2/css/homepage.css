@@ -1,7 +1,8 @@
+/*CSS For homepage.html*/
 body {
 	margin: 0;
 	padding: 0;
-	background: #262626;
+	background: #3d2117;
 	/*background: url(bg.);*/
 	background-size: cover;
 	font-family: 'Quicksand', sans-serif;
@@ -15,8 +16,8 @@ body {
 	margin: 0;
 	padding: 0 20px;
 	font-size: 6em;
-	color: #fff;
-	text-shadow: 0 0 20px #ff005b;
+	color: #ffffff;
+	text-shadow: 0 0 20px #ff8726;
 }
 
 .firstneon:after {
@@ -26,7 +27,8 @@ body {
 	left: 0;
 	padding-left: 0 20px;
 	z-index: -1;
-	color: #ff005b;
+	color: #2e7f89;
+	/*color: #ff005b;*/
 	filter: blur(15px);
 }
 
@@ -50,8 +52,8 @@ body {
 	margin: 0;
 	padding: 0 20px;
 	font-size: 6em;
-	color: #fff;
-	text-shadow: 0 0 20px #ff005b;
+	color: #ffffff;
+	text-shadow: 0 0 20px #ff8726;
 }
 
 .secondneon:after {
@@ -61,7 +63,8 @@ body {
 	left: 0;
 	padding-left: 0 20px;
 	z-index: -1;
-	color: #ff005b;
+	color: #2e7f89;
+	/*color: #ff005b;*/
 	filter: blur(15px);
 }
 
