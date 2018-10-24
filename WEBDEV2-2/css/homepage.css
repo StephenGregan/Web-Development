@@ -1,5 +1,5 @@
 /*CSS For homepage.html*/
-body {
+html, body {
 	margin: 0;
 	padding: 0;
 	background: #3d2117;
@@ -18,6 +18,12 @@ body {
 	font-size: 6em;
 	color: #ffffff;
 	text-shadow: 0 0 20px #ff8726;
+}
+
+li.active {
+	background: #29abe2;
+  	color: #fff;
+  	border-radius: 5px;
 }
 
 .firstneon:after {
@@ -125,3 +131,8 @@ ul li a:before {
 ul li a:hover:before {
 	transform: scale(1.1);
 }
+
+
+
+
+

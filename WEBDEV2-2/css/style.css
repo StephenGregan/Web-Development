@@ -106,21 +106,31 @@ h1 {
   );
 }
 
+li.active {
+	background: #ffee10;
+	background: #29abe2;
+  	color: #fff;
+  	border-radius: 5px;
+}
+
 hr{
 	width: 90%;
 }
 
 h2 {
+	/*color: blue;*/
 	font-size: 18px;
 	padding-left: 40px;
 }
 
 h3 {
+	/*color: blue;*/
 	font-size: 14px;
 	padding-left: 40px;
 }
 
 h4 {
+	/*color: blue;*/
 	font-size: 12px;
 	padding-left: 40px;
 }
